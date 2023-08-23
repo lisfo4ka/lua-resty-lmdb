@@ -1,5 +1,3 @@
 [submodule "lmdb"]
 	path = lmdb
-        url = https://github.com/LMDB/lmdb.git
-        branch = mdb.master3
-
+        url = https://github.com/lisfo4ka/lmdb.git
